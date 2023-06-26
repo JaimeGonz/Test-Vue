@@ -44,6 +44,9 @@ Only the Login page is public. All others require a successful login.
 
 ![image](https://github.com/JaimeGonz/Test-Vue/assets/48028936/e4926269-3ce0-48e8-95bb-6e6d2884a1c9)
 
+## Test the app
+You can run the project on this link: https://test-vue-gamma.vercel.app/login
+
 
 ## Build Setup
 
